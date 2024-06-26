@@ -4,3 +4,21 @@
 * Telegram: [MilaShostak](http://t.me/MilaShostak1)  
 * GitHub: [MilaShostak](https://github.com/MilaShostak)  
 * Email: milashostak111@gmail.com
+## About me
+I want to study in RS School and become Frontend Developer.  
+I have just a few key principles in life that I try to follow. Here are my rules for human life:  
+*1. Do not do anything from the “because” paradigm, but only “in order to.” If an action has a reason but no purpose, then it is a weak action.*  
+*2. If you want to get cooperation, make sure that this cooperation is beneficial to the other party. This is the rule of life for successful people.*  
+*3. In any situation, when emotions run wild and uncontrollably provoke the standard rash act - take a break. Walk 30 minutes and the situation will look completely different.*
+
+## Skills
+* Programming Languages: PHP, HTML, CSS
+* Version Control Systems: Git
+* Development Tools: VS Code
+
+## Code Example
+```
+function multiply(a, b){
+  a * b
+}
+```
