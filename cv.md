@@ -22,3 +22,17 @@ function multiply(a, b){
   a * b
 }
 ```
+## Courses
+[RS Schools Course «JavaScript/Front-end. Stage 0»](https://rs.school/)
+
+## Projects
+[Rsschool-cv](https://MilaShostak.github.io/rsschool-cv/cv)
+
+## Education
+2015-2025 Belarusian State University 
+* Specialty: Social psychology  
+* Qualification: Psychology teacher
+
+## Languages
+* Russian - native
+* English - A1
