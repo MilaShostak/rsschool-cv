@@ -1,10 +1,12 @@
 # Liudmila Kamalava
 ## My Contacts
-* Location: Minsk, Belarus  
-* Telegram: [MilaShostak](http://t.me/MilaShostak1)  
-* GitHub: [MilaShostak](https://github.com/MilaShostak)  
+* Location: Minsk, Belarus
 * Email: milashostak111@gmail.com
-## About me
+* GitHub: [MilaShostak](https://github.com/MilaShostak)  
+* Telegram: [@milashostak1](http://t.me/MilaShostak1)  
+* Discord: [milashostak](https://discord.com/channels/516715744646660106/747714817845887036)
+
+## Summary
 I want to study in RS School and become Frontend Developer.  
 I have just a few key principles in life that I try to follow. Here are my rules for human life:  
 *1. Do not do anything from the “because” paradigm, but only “in order to.” If an action has a reason but no purpose, then it is a weak action.*  
